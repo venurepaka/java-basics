@@ -1,4 +1,4 @@
-package com.cox.test;
+package com.merge.arrays.counter.test;
 
 import static org.junit.Assert.*;
 import java.util.HashMap;
@@ -8,6 +8,8 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import com.merge.arrays.counter.MergeCounter;
+
+
 
 public class MergeCounterTest {
 
