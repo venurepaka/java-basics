@@ -1,0 +1,2 @@
+current_year=2050
+current_month=12
