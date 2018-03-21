@@ -6,7 +6,8 @@ import java.util.Map;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import com.cox.MergeCounter;
+
+import com.merge.arrays.counter.MergeCounter;
 
 public class MergeCounterTest {
 

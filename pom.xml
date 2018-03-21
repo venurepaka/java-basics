@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.rest.test</groupId>
-	<artifactId>TestProject</artifactId>
+	<artifactId>java-basics</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>TestProject</name>
+	<name>java-basics</name>
 	<url>http://maven.apache.org</url>
 
 	<parent>
