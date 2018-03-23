@@ -36,3 +36,4 @@ bin/
 
 # Swagger
 app/src/main/webapp/docs/swagger.json
+/.metadata/
