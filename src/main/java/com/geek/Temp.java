@@ -29,6 +29,6 @@ class Temp
     public static void main(String args[])
     {
         // invokes default constructor first
-        new Temp();
+        new Temp1();
     }
 }
